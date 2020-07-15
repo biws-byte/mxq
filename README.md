@@ -22,6 +22,10 @@
 
 # 视频链接
 
+## 人生规划
+
+https://www.bilibili.com/video/BV1pz411v7VU
+
 ## P8课程
 
 https://www.bilibili.com/video/BV13z411i7Mf/
@@ -79,6 +83,8 @@ https://www.bilibili.com/video/BV1ni4y1x7H9/
 ### springboot源码
 
 https://www.bilibili.com/video/BV18t4y1Q7mJ/
+
+https://www.bilibili.com/video/BV1Jz411v7e9
 
 ------
 
