@@ -1,0 +1,26 @@
+git上传文件
+	1、通过cd找到本地文件
+	2、git init   //将文件夹编程可管理的仓库
+	3、git add .  //文件提交到暂存区
+	4、git commit -m '说明'提交到版本库中即可。
+	5、git push -u origin master
+
+
+git克隆文件
+	git clone 地址
+
+git删除文件
+	git pull 将远程代码同步到本地
+	git rm 文件名   //这里和linux接近，可以使用模糊删除
+	git commit -m “信息”  //将此次操作提交
+	git push  将更改改动到远程
+
+git同步更新到本地
+	1、直接git pull  如果有相应分支的话会有问题
+	2、先给i他fetch 获取远程链接的文件
+		然后git merge 用于从指定的commit合并到本地分支
+git 本地更新到远程服务
+	git add .
+	git commit   //将本地修改提交到本地库中
+	git push -u origin master   //将最近信息发送到远程库
+
