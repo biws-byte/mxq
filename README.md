@@ -64,7 +64,7 @@ https://www.bilibili.com/video/BV145411W7tu/
 
 ### 左神算法（从面试真题）
 
-https://www.bilibili.com/video/BV1rZ4y1H73t/
+https://www.bilibili.com/video/BV1mf4y1U76k/
 
 ------
 
@@ -112,15 +112,15 @@ https://www.bilibili.com/video/BV1hz4y1X7oa/
 
 https://www.bilibili.com/video/BV1LA411e7Rv/
 
+### 从面试出发系列：90%大厂会问你的Redis问题
+
+https://www.bilibili.com/video/BV1mt4y127ct
+
 ## 网络
 
-### 从nio到多路复用、epoll一直讲到netty
+### 就这一次，从操作系统底层开始，把网络给你讲透彻
 
-https://www.bilibili.com/video/BV1iZ4y1H7T7/
-
-### 网络通信：socket
-
-https://www.bilibili.com/video/BV1Yf4y117KE/
+https://www.bilibili.com/video/BV1dK4y1v767
 
 ------
 
